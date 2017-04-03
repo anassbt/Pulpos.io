@@ -1,5 +1,14 @@
 header {
   background-color: slategrey;
+  text-align: center;
+}
+
+.buttons1 {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
 }
 
 body {
@@ -8,4 +17,36 @@ body {
 
 footer {
   background-color: yellow;
+}
+
+section input {
+  right: 0;
+  position: absolute;
+}
+
+.Bazooka {
+ float: left;
+ width: 100px;
+ height: 100px;
+}
+
+.Asustor {
+  float: left;
+  width: 110px;
+  height: 110px;
+}
+
+.Asusstrix {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.mention {
+   list-style-type: none;
+}
+
+.mention li {
+  display: inline-block;
+  text-align: center;
 }
