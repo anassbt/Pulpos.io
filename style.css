@@ -1,6 +1,7 @@
 header {
   background-color: slategrey;
   text-align: center;
+  font-family: Roboto;
 }
 
 .buttons1 {
@@ -13,10 +14,12 @@ header {
 
 body {
   background-color: lightblue;
+  font-family: Roboto;
 }
 
 footer {
   background-color: yellow;
+  font-size: 10px;
 }
 
 section input {
@@ -49,4 +52,14 @@ section input {
 .mention li {
   display: inline-block;
   text-align: center;
+}
+
+.forms {
+  display: inline-block;
+  width: 40%;
+}
+
+.map {
+  display: inline-block;
+  width: 50%;
 }
